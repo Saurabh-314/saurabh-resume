@@ -200,9 +200,9 @@ p{
 }
 .skills .box .percent {
     position: relative;
-	background-color: #1b1d1c;
+    background-color: #1b1d1c;
     width: 100%; 
-    height: 9px;
+    height: 6px;
     display: block;
     margin-top: 15px;
         
